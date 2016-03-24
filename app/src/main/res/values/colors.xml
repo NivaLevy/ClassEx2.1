@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="barbiPink">#f63b76</color>
+    <color name="aqua">#0bc9f3</color>
+    <color name="yellow">#c9f30b</color>
+</resources>
